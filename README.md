@@ -259,10 +259,9 @@ If you use this framework in academic research, please cite:
 
 For questions, collaboration inquiries, or institutional deployment support:
 
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/agentic-portfolio-intelligence/issues)
+- **Email**: [yuvalshah0@gmail.com]
+- **GitHub Issues**: [Open an issue](https://github.com/yuvalshah/agentic-portfolio-intelligence/issues)
 
 ---
 
-**Built with ❤️ for the quantitative finance community**
+**Built withfor the quantitative finance community**
