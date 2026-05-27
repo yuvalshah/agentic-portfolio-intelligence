@@ -234,11 +234,11 @@ If you use this framework in academic research, please cite:
 
 ```bibtex
 @mastersthesis{agentic_portfolio_2026,
-  author = {[Your Name]},
+  author = {Yuval Shah},
   title = {An Agentic AI Framework for Institutional Portfolio Intelligence},
   school = {MPSTME, Mumbai},
   year = {2026},
-  type = {MBA Dissertation (Technology Track)}
+  note = {Industry Partner: Tech Mahindra}
 }
 ```
 
